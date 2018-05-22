@@ -9,10 +9,10 @@ Two different data sets have been used for the experimentation:
 
 
 Algorithms experimented with:
-1. •	Linear Regression with normal equations
-   •	Linear Regression with gradient descent
-   •	Logistic Regression with normal equations
-   •	Logistic Regression with gradient descent
+1. •	Linear Regression with normal equations\
+   •	Linear Regression with gradient descent\
+   •	Logistic Regression with normal equations\
+   •	Logistic Regression with gradient descent\
 
    
 2. SVM
