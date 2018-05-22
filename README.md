@@ -26,7 +26,7 @@ Algorithms experimented with:
 
 4. •	Clustering: (Hard Clustering, Soft Clustering) \
    •	Dimensonality Reduciton: (Principal Component Analysis, Independent Component Analysis, Random Projections) \
-   •	Experimentaiton using Neural Networks on reduced dimensions  \
+   •	Experimentaiton using Neural Networks on reduced dimensions  
  
   
  
