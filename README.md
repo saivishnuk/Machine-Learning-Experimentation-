@@ -24,13 +24,8 @@ Algorithms experimented with:
    •	KNN   
 
 
-4. •	Clustering:\
-         a. Hard Clustering\
-         b. Soft Clustering \ 
-   •	Dimensonality Reduciton:\
-         a. Principal Component Analysis\
-         b. Independent Component Analysis \
-         c. Random Projections \
+4. •	Clustering: (Hard Clustering, Soft Clustering) \
+   •	Dimensonality Reduciton: (Principal Component Analysis, Independent Component Analysis, Random Projections) \
    •	Experimentaiton using Neural Networks on reduced dimensions  \
  
   
