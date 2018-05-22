@@ -12,16 +12,16 @@ Algorithms experimented with:
 1. •	Linear Regression with normal equations\
    •	Linear Regression with gradient descent\
    •	Logistic Regression with normal equations\
-   •	Logistic Regression with gradient descent\
+   •	Logistic Regression with gradient descent
 
    
 2. •	SVM\
    •	Decision Trees \
-   •	Boosting (Adaboost)\
+   •	Boosting (Adaboost)
 
    
 3. •	Neural Networks\
-   •	KNN   \
+   •	KNN   
 
 
 4. •	Clustering:\
