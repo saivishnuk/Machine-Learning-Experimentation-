@@ -10,7 +10,7 @@ Two different data sets have been used for the experimentation:
 
 Algorithms experimented with:
 1. Linear Regression with normal equaitons
-   Linear Regression with gradient descent 
+   Linear Regression with gradient descen.
    Logistic Regression with normal equations
    Logistic Regression with gradient descent
    
