@@ -15,24 +15,24 @@ Algorithms experimented with:
    •	Logistic Regression with gradient descent\
 
    
-2. SVM
-   Decision Trees 
-   Boosting (Adaboost)
-   
-3. Neural Networks 
-   KNN
+2. •	SVM\
+   •	Decision Trees \
+   •	Boosting (Adaboost)\
 
-4. Clustering:
-      a. Hard Clustering 
-      b. Soft Clustering 
-    
-   Dimensonality Reduciton:
-      a. Principal Component Analysis
-      b. Independent Component Analysis
-      c. Random Projections
-    
-   Experimentaiton using Neural Networks on reduced dimensions 
-    
+   
+3. •	Neural Networks\
+   •	KNN   \
+
+
+4. •	Clustering:\
+         a. Hard Clustering\
+         b. Soft Clustering \ 
+   •	Dimensonality Reduciton:\
+         a. Principal Component Analysis\
+         b. Independent Component Analysis \
+         c. Random Projections \
+   •	Experimentaiton using Neural Networks on reduced dimensions  \
+ 
   
  
  
